@@ -1,0 +1,33 @@
+.social-media {
+    display: flex;
+    flex-direction: column;
+}
+
+#displayInput {
+    width: 40vw;
+    
+    height: 40px;
+    padding-bottom: 2px;
+    padding: 2px;
+    border-radius: 12px;
+}
+
+button {
+    width: 20vw;
+    gap: 12vw;
+    height: 30px;
+    border-radius: 12px;
+    padding-left: 22px;
+
+}
+
+.container {
+    width: 87%;
+    height: 100%;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 6vw;
+    background-color: beige;
+    
+    
+}
